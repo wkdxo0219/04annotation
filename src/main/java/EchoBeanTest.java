@@ -14,6 +14,7 @@ public class EchoBeanTest {
 		EchoBean bean = ctx.getBean("echo", EchoBean.class);
 	    //AnotherBean a = bean.getAnother();
 		//System.out.println(a);
+		System.out.println("Git Test");
 	}
 
 }
