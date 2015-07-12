@@ -9,7 +9,7 @@ public class AnotherBean {
 	}
 
 	public void setUsername(String username) {
-		System.out.println("setter username");
+		System.out.println("setter usernameㅋㅋ");
 		this.username = username;
 	}
 	
